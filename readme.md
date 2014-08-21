@@ -1,4 +1,4 @@
-# Fast Workflow in Laravel With Custom Generators
+# Modified version by ptOWL of the wonderful Jeffrey Way Generators
 
 [![Build Status](https://travis-ci.org/JeffreyWay/Laravel-4-Generators.png?branch=master)](https://travis-ci.org/JeffreyWay/Laravel-4-Generators)
 
